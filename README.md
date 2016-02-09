@@ -1,2 +1,4 @@
 # FlappyBird
-cocos2d-x , cpp
+this project is based on cocos2d-x 3.0 using c++
+
+my first game app
